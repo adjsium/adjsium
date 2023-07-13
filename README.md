@@ -10,12 +10,14 @@ Recently, I ventured into the realm of web development and taught myself JavaScr
 
 * Python (Selennium, django, pandas, matlibplot, plotly, seaborn)
 * VBA/Pivot Table
+* SQL
 * SAS EG/ SAS Base 
 * Oracle DB
 * Microsoft Access (Data extraction with SQL)
 * R (forecast, tidymodels, ggplot2, Tidyverse, dplyr data analysis package)
 * JavaScript (React JS, Node JS, Bootstrap,express)
 * HTML5/CSS
+  
 
 </details>
 
